@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfCarClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarClass>
+    <CarID>1</CarID>
+    <CarBrand>BMW</CarBrand>
+    <CarModel>X5</CarModel>
+    <Year>2017</Year>
+    <Color>Синий</Color>
+    <Price>2000000</Price>
+  </CarClass>
+  <CarClass>
+    <CarID>2</CarID>
+    <CarBrand>Ford</CarBrand>
+    <CarModel>Focus</CarModel>
+    <Year>2008</Year>
+    <Color>Белый</Color>
+    <Price>400000</Price>
+  </CarClass>
+  <CarClass>
+    <CarID>3</CarID>
+    <CarBrand>Tesla</CarBrand>
+    <CarModel>Model S</CarModel>
+    <Year>2018</Year>
+    <Color>Серый</Color>
+    <Price>10000000</Price>
+  </CarClass>
+  <CarClass>
+    <CarID>4</CarID>
+    <CarBrand>Mazda</CarBrand>
+    <CarModel>6</CarModel>
+    <Year>2016</Year>
+    <Color>Красный</Color>
+    <Price>1500000</Price>
+  </CarClass>
+  <CarClass>
+    <CarID>5</CarID>
+    <CarBrand>Volkswagen</CarBrand>
+    <CarModel>Polo</CarModel>
+    <Year>2015</Year>
+    <Color>Белый</Color>
+    <Price>1400000</Price>
+  </CarClass>
+</ArrayOfCarClass>

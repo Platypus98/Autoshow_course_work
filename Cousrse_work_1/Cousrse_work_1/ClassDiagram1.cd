@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cousrse_work_1.EditCarForm" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAFAAAAASAAABCAAACAAABCIABIAAAAMEAAAAAAAgA=</HashCode>
+      <FileName>EditCarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cousrse_work_1.Form1" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>EaAAEsXCAaABEBsAwQCICBBy4My4AAEgFHVPEAEAJAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cousrse_work_1.AddNewCarForm" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAFAAQAASAAABCAAACAAABSIAAIAAAAMEAAAAAAAgA=</HashCode>
+      <FileName>AddNewCarForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cousrse_work_1.Authorization" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACgAAFWAAACAAAACAAAIAAAAEGAAAAEAAAA=</HashCode>
+      <FileName>Authorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cousrse_work_1.CarClass" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABQAAAAAAAAAAAAAAAAAQgAAAAAAAgAEAAAA=</HashCode>
+      <FileName>CarClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyReg" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAQAAEAAEAAAAAAECAAAAAAAAAA=</HashCode>
+      <FileName>MyReg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySerial&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAACAAAIAAAAAAAAA=</HashCode>
+      <FileName>MySerial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

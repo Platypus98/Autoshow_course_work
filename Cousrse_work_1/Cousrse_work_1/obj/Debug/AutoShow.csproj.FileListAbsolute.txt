@@ -1,0 +1,28 @@
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe.config
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.pdb
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\AutoShow.csprojResolveAssemblyReference.cache
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.AddNewCarForm.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Authorization.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.EditCarForm.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Form1.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Pre_load.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Properties.Resources.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\AutoShow.csproj.GenerateResource.cache
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\AutoShow.csproj.CoreCompileInputs.cache
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.exe
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.pdb
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe.config
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.pdb
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\AutoShow.csprojResolveAssemblyReference.cache
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.AddNewCarForm.resources
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Authorization.resources
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.EditCarForm.resources
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Form1.resources
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Pre_load.resources
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Properties.Resources.resources
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\AutoShow.csproj.GenerateResource.cache
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\AutoShow.csproj.CoreCompileInputs.cache
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.exe
+C:\Users\golys\Desktop\Курсовая работа\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.pdb

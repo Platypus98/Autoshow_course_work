@@ -1,0 +1,25 @@
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe.config
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.csprojResolveAssemblyReference.cache
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Form1.resources
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Properties.Resources.resources
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.csproj.GenerateResource.Cache
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.pdb
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.exe
+c:\users\golys\documents\visual studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.pdb
+C:\Users\golys\Documents\Visual Studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.AddNewCarForm.resources
+C:\Users\golys\Documents\Visual Studio 2015\Projects\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.EditCarForm.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe.config
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.exe
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\bin\Debug\Cousrse_work_1.pdb
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.csprojResolveAssemblyReference.cache
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.AddNewCarForm.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.EditCarForm.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Form1.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Properties.Resources.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.csproj.GenerateResource.cache
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.csproj.CoreCompileInputs.cache
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.exe
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.pdb
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Authorization.resources
+C:\Users\golys\Desktop\Cousrse_work_1\Cousrse_work_1\obj\Debug\Cousrse_work_1.Pre_load.resources
